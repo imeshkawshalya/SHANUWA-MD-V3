@@ -11,6 +11,6 @@ ALIVE_MSG: process.env.ALIVE_IMG || "*HEY DEAR* ${pushname}\n *I Am AlIVE NOW...
 SUDO_NB: process.env.SUDO_NB || "94774609569",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
-AUTO_VOICE:"true"
+AUTO_VOICE:"false"
 };
 
